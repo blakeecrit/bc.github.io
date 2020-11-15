@@ -5,6 +5,8 @@ description: STAT 280 - taught by Dr. Melody Denhere
 
 Project name: "A Biological Basis for Homosexuality"
 
+Link to dataset: [INAH3](/INAH3.csv)
+
 ```r
 data = read.csv('INAH3.csv')
 attach(data)
