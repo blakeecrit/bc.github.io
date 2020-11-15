@@ -18,12 +18,12 @@ For our project, we decided to find if there is physiological basis for sexual p
 
 **Hypothesis:**
 The questions that we needed to find statistical evidence for is, “if heterosexual females tend to differ from homosexual males in the volume of INAH3”, “if heterosexual males tend to differ from homosexual males”, and “if heterosexual males tend to differ from heterosexual females.”  The hypotheses needed to answer these questions are:
-1.	H<sup>o</sup>: There is no difference in the volume of INAH3 between heterosexual females (Group 5) and homosexual males (Group 3).
-H<sup>a</sup>: There is a difference in the volume of INAH3 between heterosexual females and homosexual males.
-2.	H<sup>o</sup>: There is no difference in the volume of INAH3 between heterosexual males (Group 1 & Group 2) and homosexual males (Group 3).
-H<sup>a</sup>: There is a difference in the volume of INAH3 between heterosexual males and homosexual males. 
-3.	H<sup>o</sup>: There is no difference in the volume of INAH3 between heterosexual males (Group 1 & Group 2) and heterosexual females (Group 5).
-H<sup>a</sup>: There is a difference in the volume of INAH3 between heterosexual males and heterosexual females.
+1.	H<sub>o</sub>: There is no difference in the volume of INAH3 between heterosexual females (Group 5) and homosexual males (Group 3).\
+H<sub>a</sub>: There is a difference in the volume of INAH3 between heterosexual females and homosexual males.
+2.	H<sub>o</sub>: There is no difference in the volume of INAH3 between heterosexual males (Group 1 & Group 2) and homosexual males (Group 3).\
+H<sub>a</sub>: There is a difference in the volume of INAH3 between heterosexual males and homosexual males. 
+3.	H<sub>o</sub>: There is no difference in the volume of INAH3 between heterosexual males (Group 1 & Group 2) and heterosexual females (Group 5).\
+H<sub>a</sub>: There is a difference in the volume of INAH3 between heterosexual males and heterosexual females.
 
 **Results:**\
 To test these hypotheses, we need to conduct an ANOVA test with a post-hoc analysis of pairwise t-tests on the relationships of the groups.  By looking at these side-by-side boxplots of the groups (see Figure 1), we can tell that there is may be a difference in the volume between the five groups.  Group 2 has the highest median for the Volume (137.5 mm3).  We see that there are many outliers in this data.  When we removed these outliers, it caused other points in the data to become outliers.  Also, you can see that Group 4 has only one data point.
