@@ -2,7 +2,7 @@
 title: Statistical Methods
 description: STAT 280 - taught by Dr. Melody Denhere
 ---
-[Back to folder](/UMW/index.md)\
+[Back to folder](/UMW/index.md)
 
 Project name: "A Biological Basis for Homosexuality"
 
