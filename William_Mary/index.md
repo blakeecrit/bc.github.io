@@ -6,7 +6,8 @@ description: This page is currently under construction.
 Courses:
 
 Fall Semester
-- Computing through Business Analytics
+
+- [Computing through Business Analytics](/docs/CTBA.md}
 - Optimization
 - Database Management
 - Machine Learning I
