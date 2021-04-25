@@ -3,7 +3,7 @@ title: Machine Learning II
 ---
 
 ## Machine Learning II
-### Taught by Professor Rachel Chung
+### Taught by Rachel Chung
 
 Class description:
 
