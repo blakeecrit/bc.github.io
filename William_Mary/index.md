@@ -14,6 +14,7 @@ Fall Semester
 - [Stochastic Modeling](/docs/sto.md)
 
 Spring Semester
+
 - [Machine Learning II](/docs/ml2.md)
 - [Big Data](/docs/bd.md)
 - [Artifical Intelligence](/docs/ai.md)
