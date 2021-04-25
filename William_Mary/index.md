@@ -1,11 +1,14 @@
 ---
-title: Masters of Business Analytics Coursework
+title: MSBA
 description: This page is currently under construction.
 ---
 
+## William & Mary
+### Masters of Science in Business Analytics
+
 Courses:
 
-Fall Semester
+Fall Semester (Fall 2020)
 
 - [Computing through Business Analytics](/docs/CTBA.md)
 - [Optimization](/docs/opt.md)
@@ -13,7 +16,7 @@ Fall Semester
 - [Machine Learning I](/docs/ml1.md)
 - [Stochastic Modeling](/docs/sto.md)
 
-Spring Semester
+Spring Semester (Spring 2021)
 
 - [Machine Learning II](/docs/ml2.md)
 - [Big Data](/docs/bd.md)
@@ -22,3 +25,5 @@ Spring Semester
 - [Heuristic Algorithms](/docs/ha.md)
 
 Capstone Project
+
+- More details to come!
