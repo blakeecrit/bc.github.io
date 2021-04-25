@@ -1,5 +1,5 @@
 ---
-title: Blake Crittenden website
+title:
 ---
 
 These links are to work I've done during my time at William & Mary.
