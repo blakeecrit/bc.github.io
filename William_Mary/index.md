@@ -4,6 +4,7 @@ description: This page is currently under construction.
 ---
 
 Courses:
+
 Fall Semester
 - Computing through Business Analytics
 - Optimization
