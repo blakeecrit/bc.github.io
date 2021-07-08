@@ -7,10 +7,6 @@ Website created by Blake Crittenden
 
 [LinkedIn](https://www.linkedin.com/in/blake-crittenden/)
 
-Frequently used recipes:
-
-[Meatloaf](/Recipes/meatloaf.txt)
-
 These links are to work I've done during my time at William & Mary.
 
 [William & Mary](/William_Mary/index.md)

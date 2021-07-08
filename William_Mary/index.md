@@ -26,4 +26,4 @@ Spring Semester (Spring 2021)
 
 Capstone Project
 
-- More details to come!
+- [Celonis](/docs/cap.md)
