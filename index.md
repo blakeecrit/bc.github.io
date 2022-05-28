@@ -7,7 +7,7 @@ Website created by Blake Crittenden
 
 [LinkedIn](https://www.linkedin.com/in/blake-crittenden/)
 
-[Resume](/resume.md)
+[Resume](/resume.html)
 
 These links are to work I've done during my time at William & Mary.
 
